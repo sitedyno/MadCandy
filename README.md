@@ -1,6 +1,6 @@
 These configs based largely on the FTB Universal Configs.
 
-[Feed The Beast](www.feed-the-beast.com)
+[Feed The Beast](http://www.feed-the-beast.com)
 
 [FTB Universal Configs](https://t.co/ARMBYIi9WZ)
 
